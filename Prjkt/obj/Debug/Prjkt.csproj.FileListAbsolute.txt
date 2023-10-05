@@ -1,0 +1,8 @@
+C:\Users\aleks\source\repos\Prjkt\Prjkt\bin\Debug\Prjkt.exe.config
+C:\Users\aleks\source\repos\Prjkt\Prjkt\bin\Debug\Prjkt.exe
+C:\Users\aleks\source\repos\Prjkt\Prjkt\bin\Debug\Prjkt.pdb
+C:\Users\aleks\source\repos\Prjkt\Prjkt\obj\Debug\Prjkt.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\Prjkt\Prjkt\obj\Debug\Prjkt.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\source\repos\Prjkt\Prjkt\obj\Debug\Prjkt.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Prjkt\Prjkt\obj\Debug\Prjkt.exe
+C:\Users\aleks\source\repos\Prjkt\Prjkt\obj\Debug\Prjkt.pdb
